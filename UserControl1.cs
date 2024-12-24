@@ -15,8 +15,9 @@ namespace GeneradorQr1
 
         private void UserControl1_Load(object sender, EventArgs e)
         {
-           
-        }  
+            //CAMBIOS NUEVOS
+
+        }
         private void btnGenerarQR_Click(object sender, EventArgs e)
         {
             // Obtener los valores de los TextBox
