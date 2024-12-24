@@ -15,7 +15,7 @@ namespace GeneradorQr1
 
         private void UserControl1_Load(object sender, EventArgs e)
         {
-            //CAMBIOS NUEVOS
+            //CAMBIOS NUEVOS dos
 
         }
         private void btnGenerarQR_Click(object sender, EventArgs e)
